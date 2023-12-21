@@ -172,6 +172,7 @@ Let's go through the findings.
      | Confidence: 100%
 
 Let's examine the contents of the robots.txt file by navigating to the following URL: "[http://funbox.fritz.box/robots.txt](http://funbox.fritz.box/robots.txt)".
+
 ![Robots](https://github.com/omarMahmood05/FunBox-1-Pentesting/assets/86721437/da04a2d0-ef4d-4dfd-b51f-2965d8d37bb6)
 
 
