@@ -36,6 +36,7 @@ To achieve this, right-click on the FunBox Machine, navigate to settings, access
 Let's start both the machines (Kali Linux and FunBox)
 
 This is how the Funbox machine should look like once it's booted up 
+
 ![funbox image](https://github.com/omarMahmood05/FunBox-1-Pentesting/assets/86721437/3b1b48b2-ce15-4244-b68b-781fc0288f9d)
 
 
@@ -122,6 +123,7 @@ This output should look something like this
 Let's attempt to access the page in Firefox once more.
 
 There we go — we have successfully reached a landing page!
+
 ![FunBox Landing Page](https://github.com/omarMahmood05/FunBox-1-Pentesting/assets/86721437/58b61012-10ec-475f-923a-691d6e528943)
 
 
